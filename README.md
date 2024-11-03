@@ -108,49 +108,6 @@ hackathon-caixabank-frontend-react-finassist/
         └── [other tests]
 ```
 
-🎯 Tasks
-Task1: Transaction Management (CRUD)
-Task2: Budget Management and Alerts
-Task3: Design and Layout with Material UI
-Task4: Conditional Rendering
-Task5: External API Handling
-Task6: Componentization and Reusability
-Task7: State Management with Nanostores
-Task8: Data Visualization and Graphs
-Task9: Unit and Integration Testing
-Task10: Performance Optimization
-Task11: Notifications and Alerts
-Task12: Authentication and Route Protection
-Task13: Password Recovery
-Task14: Footer and Navbar
-Task15: Utilities and Helpers
-📑 Detailed information about tasks
-You will find more detailed information about each of the tasks in the file Detailed_info.md.
-
-💫 Guides
-⚠️As this is a hackathon, with more time than usual and we are competing, we have created a long challenge. It is crucial to get the app working in order to correct it, so it is important to manage time well and prioritise rather than trying to get everything done and the app not working when it is corrected.⚠️
-
-General information
-As this challenge is part of a hackathon, participants are free to modify anything they need to implement their solution. There are no limits of any kind, neither technological nor visual.
-
-A deployed website with all the functionalities to be created is provided so that participants have a clear reference of the expected performance.
-
-Key implemented features include:
-
-Comprehensive interactive tour guide for new users
-Drag & drop dashboard with layout persistence
-Local storage for user data and preferences
-Demo data generation in Transactions and Settings
-Dynamic widget system with real-time updates
-Responsive Material UI implementation
-Performance optimized components
-The code provides a basis on which to work, and also contains comments that may be useful.
-
-📤 Submission
-Solve the proposed tasks.
-Continuously push the changes you have made.
-The last commit will be the one to be taken into account for manual correction.
-
 ```
 
 ```
