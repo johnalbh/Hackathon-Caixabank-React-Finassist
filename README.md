@@ -1,3 +1,5 @@
+![Texto alternativo](https://github.com/johnalbh/Hackathon-Caixabank-React-Finassist/blob/master/public/preview.png)
+
 ## 🚀 Key Features
 
 - **Interactive Tour Guide**: A comprehensive guided tour that helps new users discover and understand all features of the application. The tour:
